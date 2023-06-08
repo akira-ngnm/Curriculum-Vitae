@@ -51,6 +51,9 @@
 - MS Word
 - その他、GitHub、VS Code、Docker Desktopなど
 
+資格
+- 基本情報技術者試験　合格(2023.06)
+
 ## 強み
 
 - プロジェクトマネジメント:
